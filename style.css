@@ -1,0 +1,74 @@
+body{
+    margin: 0px;}
+
+section{
+    height: 500px;
+    margin: 2% 5% 2% 5%; } 
+   
+#name{
+    font-size: 40px; 
+      
+    color: rgb(253, 4, 87);}
+
+img{
+    width: 60% ;
+    }    
+    
+.upper{
+    float: left; 
+    width: 40% ;
+    padding: 3%; } 
+
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(yellow, blue, rgb(224, 86, 109));
+    padding: 5px 10px;
+    color: cornsilk;}    
+
+.button:hover{
+    color: black;
+    font-size: 40px;
+    background-color: rgb(255, 4, 4);}
+
+#top-bg{
+    background-image: url(personal-website/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;} 
+
+.middle{
+    float: left; 
+    width: 40% ;
+    padding: 3%;}
+
+#middle-bg{ 
+    background-image: url(personal-website/biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: right} 
+
+#lastwork{text-align: center;}    
+   
+.imgdiv{
+    float: left;
+    width:30%;
+    margin: 1%;}
+#choto-koro{
+    font-size:15px;}
+    
+#last-div{
+    text-align: center;}
+
+h4{
+    background-image: linear-gradient(rgb(238, 65, 94), red); 
+    width: 25%; 
+    margin-left: 37%;}   
+    
+.last-section{
+    background-image: url(personal-website/footer-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;} 
+        
+footer{
+    text-align: center;
+    font-size: 10px;}
+
+
